@@ -1,0 +1,29 @@
+- title: 即刻短文
+  subTitle: 咸鱼的日常生活。
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: https://t.mwm.moe/pc
+  essay_list:
+    - content: 安知鱼主题指南
+      date: 2023/09/09
+      video:
+        - https://player.bilibili.com/player.html?aid=226886152&bvid=BV1Ch41137tR&cid=1081639816&p=1&autoplay=0
+
+    - content: 面向高中生的马尔可夫链（Markov Chains）和游走相关的概率递推问题
+      date: 2023/08/30 01:27:00
+      image:
+        - https://picx.zhimg.com/70/v2-e6f011140db6f578e5ffbbb746eb969f_1440w.avis?source=172ae18b&biz_tag=Post
+      link: https://zhuanlan.zhihu.com/p/653026889
+             
+    - content: 歌曲推荐
+      date: 2024/11/01
+      aplayer:
+        server: tencent
+        id: 001FGQba3i10mw
+
+    - content: 孤独摇滚是真的好看！
+      date: 2024/11/01
+      link: https://www.bilibili.com/bangumi/media/md28339735/

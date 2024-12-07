@@ -1,0 +1,43 @@
+﻿- class_name: 框架
+  flink_style: flexcard
+  hundredSuffix: ""
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网站框架
+    - name: anzhiyu主题
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+
+- class_name: 推荐博客
+  flink_style: telescopic
+  hundredSuffix: ""
+  link_list:
+    - name: 安知鱼
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+      color: vip
+      tag: 技术
+    - name: Sevin
+      link: https://blog.sevin.cn/
+      avatar: https://q.qlogo.cn/g?b=qq&nk=2720269770&s=640
+      descr: 一名有志青年，梦想着可以通过自己微小的力量改变世界推动人类发展
+      siteshot: https://img.picui.cn/free/2024/11/09/672eef35bc14f.png
+      color: speed
+      tag: 技术
+
+- class_name: 小伙伴
+  class_desc: 那些人，那些事
+  flink_style: anzhiyu
+  hundredSuffix: ""
+  link_list:
+    - name: lx
+      link: https://space.bilibili.com/1400777930?spm_id_from=333.999.0.0
+      avatar: https://i2.hdslb.com/bfs/face/809808b77e859d10fd54be8cf2e96e40224ed065.jpg
+      descr: 生活明朗，万物可爱
+      recommend: true
